@@ -16,6 +16,7 @@ public class BuddyInfo {
         return name;
     }
     // trying out if the edit pulls
+    // pushing code to new branch
    
     public static void main(String[] args) {
         BuddyInfo buddyInfo = new BuddyInfo("Homer", "Carleton", 613);
