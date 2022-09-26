@@ -15,7 +15,8 @@ public class BuddyInfo {
     public String getName() {
         return name;
     }
-
+    // trying out if the edit pulls
+   
     public static void main(String[] args) {
         BuddyInfo buddyInfo = new BuddyInfo("Homer", "Carleton", 613);
         buddyInfo.setName("Homer");
